@@ -40,6 +40,9 @@
  .landing{
     /* background-image: url('./resource/istockphoto-905146540-1024x1024-transformed.jpeg'); */
   }
+  .tilt:hover{
+    transform: rotate(0.15turn);
+  }
 
 @keyframes App-logo-spin {
   from {
